@@ -1,0 +1,9 @@
+Date	Time	Type_Of_Wash
+7/3/2022	11:25 AM	Deluxe Wash
+7/3/2022	11:27 AM	Economy Wash
+7/3/2022	11:33 AM	Economy Wash
+7/3/2022	11:33 AM	Economy Wash
+7/3/2022	4:09 PM	Deluxe Wash
+7/3/2022	4:10 PM	Economy Wash
+7/3/2022	6:53 PM	Deluxe Wash
+7/3/2022	6:54 PM	Economy Wash
